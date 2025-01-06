@@ -1,10 +1,16 @@
 # Analyzing Students Mental Health
-The global gaming market is projected to surpass $300 billion by 2027, making video games a lucrative industry. In this project, I analyzed critic and user scores alongside sales data for the top 400 video games released since 1977. My goal was to identify the "golden age" of video games by exploring trends in user and critic preferences over time while examining the business side of gaming through sales data.
+Studying abroad is an exciting yet challenging experience. In this project, I analyzed data from a Japanese international university's study on the mental health of international students. By leveraging data manipulation techniques, I uncovered key factors impacting student mental health and provided insights to inform supportive measures.
 
 Key Highlights:
 
-1. Analyzed critic and user scores to identify top-rated release years.
-2. Explored sales data to understand the financial side of gaming.
-3. Gained insights into the evolution of video game quality and success.
+1. Cleaned and manipulated data to explore mental health trends.
+2. Identified significant factors influencing international students’ well-being.
+3. Gained insights to support mental health initiatives in academic settings.
 
-This project demonstrates my ability to analyze data trends, extract meaningful insights, and connect findings to industry-relevant questions.
+This project showcases my data analysis skills and my ability to draw actionable insights from real-world datasets.
+
+
+
+
+
+
